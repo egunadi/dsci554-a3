@@ -4,3 +4,16 @@
 - Link to download original data on "Population, surface area and density"
   - https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20and%20Density.csv
   - First row is the spreadsheet title and must be manually removed (column headers in second row)
+- [filter_data.py](code/filter_data.py) was used to process the data
+  - The data is filtered to only Population Density in the year 2022
+  - Since we are interested in countries, Region/Area entries are filtered out
+    - ex. Macau and Hong Kong (despite being one of the most populated regions in the world)
+  - Despite only selecting the top 10 entries, there is a vast range of values (24475.8 max to 640.1 min)
+    - To minimize this difference, values are encoded as bubble areas and we obtain diameter by taking the square root of the values 
+- The "svg" folder contains SVG files created using Inkscape
+  - [popdensity22_top10.inkscape.svg](svg/popdensity22_top10.inkscape.svg) presents bubbles as circles using the calculated diameters. For viewers to easily sort the bubbles:
+    - Bubbles are numbered in descending order based on Population Density
+    - Bubbles are arranged so adjacent numbers are next to each other
+  - [popdensity22_top10_region.inkscape.svg](svg/popdensity22_top10_region.inkscape.svg) adds additional encoding, namely that bubbles are color-coded according to geographic region (ex. Europe, Asia, etc.)
+    - Bubbles of the same color are grouped together so viewers can better compare the various regions
+  - Plain SVG formats of the above files have also been created for the HTML page 
