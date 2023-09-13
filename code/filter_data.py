@@ -1,4 +1,11 @@
 import pandas as pd
+import math
+
+def diameter_from_area(area):
+    if area < 0:
+        raise ValueError("Area cannot be negative")
+    diameter = 2 * math.sqrt(area / math.pi)
+    return diameter
 
 def filter_data():
     filepath = '../data/SYB65_1_202209_Population, Surface Area and Density.csv'
@@ -29,6 +36,11 @@ def filter_data():
                                                       'Value': 'PopDensity22'})
     
     popdensity22_top10_df = popdensity22_df[['Country', 'PopDensity22']][:10]
+    
+    # calculate diameter for bubble cloud infographic
+    popdensity22_top10_df['Diameter'] = popdensity22_top10_df['PopDensity22'] \
+                                          .apply(diameter_from_area) \
+                                          .astype('int')  
     
     popdensity22_top10_df.to_csv('../data/popdensity22_top10.csv', encoding='utf-8', index=False)
 
