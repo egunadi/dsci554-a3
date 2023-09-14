@@ -7,8 +7,33 @@
    viewBox="0 0 320 380"
    version="1.1"
    id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="popdensity22_top10.inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#182662"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:lockguides="true"
+     inkscape:zoom="2.2526434"
+     inkscape:cx="691.85383"
+     inkscape:cy="1238.5449"
+     inkscape:window-width="1296"
+     inkscape:window-height="907"
+     inkscape:window-x="485"
+     inkscape:window-y="1241"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g16-8"
+     showguides="true" />
   <defs
      id="defs1">
     <rect
@@ -49,6 +74,20 @@
        id="rect8" />
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#000066;fill-opacity:1;stroke-width:3.12801"
+       id="rect1"
+       width="323.5654"
+       height="381.05164"
+       x="-1.6424638"
+       y="0.82123196" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <text
        xml:space="preserve"
@@ -65,6 +104,8 @@
          cx="-84.623329"
          cy="304.79913"
          transform="matrix(-0.99905768,0.04340216,0.04330725,0.9990618,0,0)"
+         inkscape:transform-center-x="71.084169"
+         inkscape:transform-center-y="-53.371564"
          rx="83.234901"
          ry="83.325867" />
       <text
@@ -76,23 +117,25 @@
          transform="matrix(2.1984367,0,0,1.8286559,-171.58227,26.944898)"><tspan
            x="102.33715"
            y="152.78503"
-           id="tspan9"><tspan
+           id="tspan22"><tspan
              style="fill:#ffffff"
-             id="tspan2">1.Monaco</tspan></tspan></text>
+             id="tspan21">1.Monaco</tspan></tspan></text>
     </g>
     <g
        id="g6-0"
-       transform="matrix(1.0564643,0,0,1.0566329,108.65159,-169.91396)">
+       transform="matrix(1.0564643,0,0,1.0566329,96.51377,-172.61374)">
       <g
          id="g7"
          transform="translate(-0.5785732,-1.7357195)"
          style="stroke:none">
         <ellipse
-           style="fill:#00c3c3;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
            id="circle3-6"
            cx="-50.746078"
            cy="267.75342"
            transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+           inkscape:transform-center-x="42.43975"
+           inkscape:transform-center-y="-31.824703"
            rx="49.694046"
            ry="49.686146" />
         <text
@@ -101,160 +144,55 @@
            x="102.33715"
            y="152.78503"
            id="text9-0"
-           transform="matrix(2.3380109,0,0,2.1566856,-219.92886,-60.028776)"><tspan
+           transform="matrix(2.3380109,0,0,2.1566856,-221.06898,-63.448584)"><tspan
              x="102.33715"
              y="152.78503"
-             id="tspan10">2.Singapore</tspan></text>
+             id="tspan23">2.Singapore</tspan></text>
       </g>
-    </g>
-    <g
-       id="g6-0-8"
-       transform="matrix(1.0564643,0,0,1.0566329,43.054155,59.793758)">
-      <g
-         id="g7-0"
-         transform="translate(80.938268,-98.038434)"
-         style="stroke:none">
-        <text
-           xml:space="preserve"
-           style="font-size:4.16345px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-           x="102.33715"
-           y="152.78503"
-           id="text9-0-4-0"
-           transform="matrix(2.3380109,0,0,2.1566856,-217.53828,39.059887)"><tspan
-             x="102.33715"
-             y="152.78503"
-             id="tspan14">Asia</tspan></text>
-      </g>
-      <g
-         id="g7-0-05"
-         transform="translate(-8.3114857,-24.775641)"
-         style="stroke:none">
-        <text
-           xml:space="preserve"
-           style="font-size:4.16345px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-           x="102.33715"
-           y="152.78503"
-           id="text9-0-4-0-22"
-           transform="matrix(2.3380109,0,0,2.1566856,-216.1615,-34.448543)"><tspan
-             x="102.33715"
-             y="152.78503"
-             id="tspan15">Americas</tspan></text>
-      </g>
-      <rect
-         style="fill:#00c3c3;fill-opacity:1;stroke-width:2.96059"
-         id="rect1"
-         width="19.382"
-         height="11.399357"
-         x="78.729622"
-         y="262.05457" />
-      <g
-         id="g3"
-         transform="translate(-35.008598,-34.736829)">
-        <g
-           id="g7-0-9"
-           transform="translate(115.15991,-47.220109)"
-           style="stroke:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.16345px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-             x="102.33715"
-             y="152.78503"
-             id="text9-0-4-0-1"
-             transform="matrix(2.3380109,0,0,2.1566856,-217.53828,39.059887)"><tspan
-               x="102.33715"
-               y="152.78503"
-               id="tspan17">Africa</tspan></text>
-        </g>
-        <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke-width:2.96059"
-           id="rect1-0"
-           width="19.382"
-           height="11.399357"
-           x="113.62193"
-           y="313.74219" />
-      </g>
-      <rect
-         style="fill:#803300;fill-opacity:1;stroke-width:2.96059"
-         id="rect1-4"
-         width="19.382"
-         height="11.399357"
-         x="-9.5053301"
-         y="261.37018" />
-      <g
-         id="g7-0-0"
-         transform="translate(-7.3334769,-81.055814)"
-         style="stroke:none">
-        <text
-           xml:space="preserve"
-           style="font-size:4.16345px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-           x="102.33715"
-           y="152.78503"
-           id="text9-0-4-0-8"
-           transform="matrix(2.3380109,0,0,2.1566856,-217.53828,39.059887)"><tspan
-             x="102.33715"
-             y="152.78503"
-             id="tspan18">Middle East</tspan></text>
-      </g>
-      <g
-         id="g4"
-         transform="translate(137.50525,-42.056851)">
-        <g
-           id="g7-0-2"
-           transform="translate(6.4671405,-47.255799)"
-           style="stroke:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.16345px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-             x="102.33715"
-             y="152.78503"
-             id="text9-0-4-0-2"
-             transform="matrix(2.3380109,0,0,2.1566856,-217.53828,39.059887)"><tspan
-               x="102.33715"
-               y="152.78503"
-               id="tspan19">Europe</tspan></text>
-        </g>
-        <rect
-           style="fill:#00c3c3;fill-opacity:1;stroke-width:2.96059"
-           id="rect1-6"
-           width="19.382"
-           height="11.399357"
-           x="4.9240532"
-           y="311.63937" />
-        <path
-           style="fill:#ff0060;fill-opacity:1;stroke-width:26.9102"
-           d="m 43.247958,671.48145 v -21.62397 h 37.557437 37.557435 v 21.62397 21.62398 H 80.805395 43.247958 Z"
-           id="path2"
-           transform="matrix(0.25044229,0,0,0.25040232,-5.5420129,149.1212)" />
-        <path
-           style="fill:#ff0060;fill-opacity:1;stroke-width:6.58929"
-           d="m 6.115174,317.26171 v -5.41469 h 8.992936 8.992935 v 5.41469 5.4147 H 15.10811 6.115174 Z"
-           id="path3" />
-      </g>
-      <rect
-         style="fill:#00ba00;fill-opacity:1;stroke-width:2.87884"
-         id="rect3"
-         width="19.122778"
-         height="10.510902"
-         x="-9.4373302"
-         y="279.02768" />
     </g>
     <g
        id="g7-7"
-       transform="matrix(1.0564643,0,0,1.0566329,212.72052,-121.44061)"
+       transform="matrix(1.0564643,0,0,1.0566329,226.8681,-107.29303)"
        style="stroke:none">
       <g
+         id="g16"
+         transform="matrix(0.38095237,0,0,0.38095238,-170.1774,59.555386)">
+        <ellipse
+           style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
+           id="circle3-6-1"
+           cx="-393.35141"
+           cy="945.55511"
+           transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+           inkscape:transform-center-x="42.43975"
+           inkscape:transform-center-y="-31.824703"
+           rx="49.694046"
+           ry="49.686146" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.11993px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
+           x="102.33715"
+           y="152.78503"
+           id="text9-0-00"
+           transform="matrix(2.1984367,0,0,1.8286559,164.41751,651.28492)"><tspan
+             x="102.33715"
+             y="152.78503"
+             id="tspan24">7.Bangladesh</tspan></text>
+      </g>
+      <g
          id="g16-1"
-         transform="matrix(0.26666666,0,0,0.26666666,-134.95348,210.09722)"
+         transform="matrix(0.26666666,0,0,0.26666666,-212.63905,182.70677)"
          style="stroke:none">
         <g
            id="g17"
-           transform="translate(431.24238,-253.55999)">
+           transform="translate(96.511063,3.8598265)">
           <ellipse
-             style="fill:#803300;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
              id="circle3-6-1-7"
-             cx="-167.56776"
-             cy="891.17596"
+             cx="-393.35141"
+             cy="945.55511"
              transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+             inkscape:transform-center-x="42.43975"
+             inkscape:transform-center-y="-31.824703"
              rx="49.694046"
              ry="49.686146" />
           <text
@@ -263,21 +201,23 @@
              x="102.33715"
              y="152.78503"
              id="text9-0-00-4"
-             transform="matrix(2.1984367,0,0,1.8286559,-61.796119,607.1659)"><tspan
+             transform="matrix(2.1984367,0,0,1.8286559,166.13327,652.57153)"><tspan
                x="102.33715"
                y="152.78503"
-               id="tspan20">9.Barbados</tspan></text>
+               id="tspan25">9.Barbados</tspan></text>
         </g>
         <g
            id="g17-9"
-           transform="translate(170.11074,-223.68538)"
+           transform="translate(-1.3778065,-9.5721685)"
            style="stroke:none">
           <ellipse
-             style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
              id="circle3-6-1-7-0"
-             cx="-383.33496"
-             cy="961.32605"
+             cx="-393.35141"
+             cy="945.55511"
              transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+             inkscape:transform-center-x="42.43975"
+             inkscape:transform-center-y="-31.824703"
              rx="49.694046"
              ry="49.686146" />
           <text
@@ -286,15 +226,15 @@
              x="102.33715"
              y="152.78503"
              id="text9-0-00-4-6"
-             transform="matrix(2.1984367,0,0,1.8286559,157.30079,669.25245)"><tspan
+             transform="matrix(2.1984367,0,0,1.8286559,166.13327,652.57153)"><tspan
                x="102.33715"
                y="152.78503"
-               id="tspan21">10.Mauritius</tspan></text>
+               id="tspan26">10.Mauritius</tspan></text>
         </g>
       </g>
       <g
          id="g16-8"
-         transform="matrix(0.38095237,0,0,0.38095238,-22.2017,-81.305678)"
+         transform="matrix(0.38095237,0,0,0.38095238,35.322989,93.925851)"
          style="stroke:none">
         <ellipse
            style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
@@ -302,6 +242,8 @@
            cx="232.37653"
            cy="871.46783"
            transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+           inkscape:transform-center-x="42.43975"
+           inkscape:transform-center-y="-31.824703"
            rx="49.694046"
            ry="49.686146" />
         <text
@@ -310,17 +252,17 @@
            x="115.79939"
            y="152.78503"
            id="text9-0-00-0"
-           transform="matrix(2.1984367,0,0,1.8286559,-494.46566,593.59925)"><tspan
+           transform="matrix(2.1984367,0,0,1.8286559,-450.39785,592.72387)"><tspan
              x="115.79939"
              y="152.78503"
-             id="tspan23"><tspan
+             id="tspan28"><tspan
                style="text-align:center;text-anchor:middle"
-               id="tspan22">8.Sint </tspan></tspan><tspan
+               id="tspan27">8.Sint </tspan></tspan><tspan
              x="115.79939"
              y="165.02488"
-             id="tspan25"><tspan
+             id="tspan30"><tspan
                style="text-align:center;text-anchor:middle"
-               id="tspan24">Maarten</tspan></tspan></text>
+               id="tspan29">Maarten</tspan></tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.65741102,0,0,0.6573061,-656.42271,19.993415)"
@@ -330,7 +272,7 @@
     </g>
     <g
        id="g6-0-4"
-       transform="matrix(0.46283197,0,0,0.46290584,47.165469,2.6169266)">
+       transform="matrix(0.46283197,0,0,0.46290584,224.83511,131.23412)">
       <g
          id="g7-9"
          transform="translate(-0.5785732,-1.7357195)"
@@ -344,6 +286,8 @@
              cx="-127.99543"
              cy="713.82739"
              transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+             inkscape:transform-center-x="42.43975"
+             inkscape:transform-center-y="-31.824703"
              rx="49.694046"
              ry="49.686146" />
           <text
@@ -355,7 +299,7 @@
              transform="matrix(2.1984367,0,0,1.8286559,-108.2416,433.93693)"><tspan
                x="102.33715"
                y="152.78503"
-               id="tspan26">6.Malta</tspan></text>
+               id="tspan31">6.Malta</tspan></text>
         </g>
       </g>
     </g>
@@ -365,7 +309,7 @@
        style="stroke:none">
       <g
          id="g9"
-         transform="translate(-317.57795,130.18218)">
+         transform="translate(-18.86827,44.917283)">
         <g
            id="g8">
           <ellipse
@@ -374,6 +318,8 @@
              cx="-50.746078"
              cy="267.75342"
              transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+             inkscape:transform-center-x="42.43975"
+             inkscape:transform-center-y="-31.824703"
              rx="49.694046"
              ry="49.686146" />
         </g>
@@ -386,25 +332,55 @@
            transform="matrix(2.1984367,0,0,1.8286559,-203.92699,-9.2603474)"><tspan
              x="102.33715"
              y="152.78503"
-             id="tspan27">3.Gibraltar</tspan></text>
+             id="tspan32">3.Gibraltar</tspan></text>
+      </g>
+      <g
+         id="g9-0"
+         transform="matrix(0.734375,0,0,0.734375,133.88499,87.195884)"
+         style="stroke:none">
+        <g
+           id="g8-9"
+           transform="translate(-116.16247,242.65754)">
+          <ellipse
+             style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
+             id="circle3-6-0-2"
+             cx="-50.746078"
+             cy="267.75342"
+             transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+             inkscape:transform-center-x="42.43975"
+             inkscape:transform-center-y="-31.824703"
+             rx="49.694046"
+             ry="49.686146" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:7.03782px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
+           x="102.33715"
+           y="152.78503"
+           id="text9-0-5-4"
+           transform="matrix(2.1984367,0,0,1.8286559,-320.53527,233.3972)"><tspan
+             x="102.33715"
+             y="152.78503"
+             id="tspan33">5.Maldives&#10;</tspan></text>
       </g>
       <g
          id="g9-6"
-         transform="matrix(0.75,0,0,0.75,337.63866,378.2751)"
+         transform="matrix(0.75,0,0,0.75,327.95231,320.24018)"
          style="stroke:none">
         <g
            id="g13"
            transform="translate(-334.23792,39.527209)">
           <g
              id="g8-0"
-             transform="translate(-55.140116,-215.27466)"
-             style="fill:#00ba00;fill-opacity:1">
+             transform="translate(-55.140116,-215.27466)">
             <ellipse
-               style="fill:#00ba00;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
                id="circle3-6-0-4"
                cx="-50.746078"
                cy="267.75342"
                transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
+               inkscape:transform-center-x="42.43975"
+               inkscape:transform-center-y="-31.824703"
                rx="49.694046"
                ry="49.686146" />
           </g>
@@ -414,10 +390,10 @@
              x="102.33715"
              y="152.78503"
              id="text9-0-5-2"
-             transform="matrix(2.1984367,0,0,1.8286559,-252.9383,-228.32539)"><tspan
+             transform="matrix(2.1984367,0,0,1.8286559,-253.60643,-224.53501)"><tspan
                x="102.33715"
                y="152.78503"
-               id="tspan28">4.Bahrain</tspan></text>
+               id="tspan34">4.Bahrain</tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -432,17 +408,17 @@
        x="122.83704"
        y="152.78503"
        id="text9-8"
-       transform="matrix(6.6873942,0,0,5.4056727,-803.41196,-800.16587)"><tspan
+       transform="matrix(6.6873942,0,0,5.4056727,-659.69637,-805.09326)"><tspan
          x="122.83704"
          y="152.78503"
-         id="tspan30"><tspan
+         id="tspan36"><tspan
            style="line-height:1.3;text-align:center;text-anchor:middle;fill:#ffffff"
-           id="tspan29">Countries in 2022 with the Highest </tspan></tspan><tspan
+           id="tspan35">Countries in 2022 with the Highest </tspan></tspan><tspan
          x="122.83704"
          y="155.83609"
-         id="tspan32"><tspan
+         id="tspan38"><tspan
            style="line-height:1.3;text-align:center;text-anchor:middle;fill:#ffffff"
-           id="tspan31">Population Densities &#10;</tspan></tspan></text>
+           id="tspan37">Population Densities &#10;</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -454,10 +430,12 @@
        x="133.08633"
        y="109.06353"
        id="text11"><tspan
+         sodipodi:role="line"
          id="tspan11"
          style="stroke-width:3.128"
          x="133.08633"
          y="109.06353" /><tspan
+         sodipodi:role="line"
          style="stroke-width:3.128"
          id="tspan12"
          x="133.08633"
@@ -472,73 +450,12 @@
        transform="scale(0.26458333)"
        id="text6"
        style="font-size:32px;line-height:1.3;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#ffffff;stroke-width:11.8224" />
-    <g
-       id="g2"
-       transform="translate(-53.994262,88.212114)">
-      <g
-         id="g9-0"
-         transform="matrix(0.47289352,0,0,0.47296901,289.30492,11.665332)"
-         style="stroke:none">
-        <g
-           id="g8-9"
-           transform="translate(-81.43607,-130.96909)">
-          <ellipse
-             style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
-             id="circle3-6-0-2"
-             cx="-50.746078"
-             cy="267.75342"
-             transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
-             rx="49.694046"
-             ry="49.686146" />
-        </g>
-        <path
-           style="fill:#00c3c3;fill-opacity:1;stroke-width:15.9517"
-           d="m 1037.5981,369.61819 c -28.6567,-7.45855 -53.49971,-31.0427 -62.4476,-59.28326 -4.3409,-13.70041 -4.24733,-40.66209 0.18497,-53.29665 9.4576,-26.95946 30.79063,-48.06128 57.54013,-56.9164 7.9971,-2.64734 12.134,-3.11557 26.9857,-3.05428 14.6151,0.0603 19.0034,0.58188 26.311,3.12713 26.7928,9.33209 48.5652,31.09363 56.8719,56.84355 3.954,12.25687 4.9229,35.46364 1.9728,47.25055 -7.9948,31.94264 -33.2299,57.38723 -64.8627,65.40111 -10.0936,2.55714 -32.6015,2.51918 -42.5562,-0.0717 z"
-           id="path4"
-           transform="matrix(0.55949873,0,0,0.55940945,-611.77601,-24.664051)" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:7.03782px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-         x="102.33715"
-         y="152.78503"
-         id="text9-0-5-4"
-         transform="matrix(1.0396265,0,0,0.86489757,155.57758,-55.722548)"><tspan
-           x="102.33715"
-           y="152.78503"
-           id="tspan33">5.Maldives&#10;</tspan></text>
-    </g>
-    <g
-       id="g1"
-       transform="translate(-47.048317,-153.42031)">
-      <g
-         id="g16"
-         transform="matrix(0.40246258,0,0,0.40252682,47.081752,-44.364849)"
-         style="stroke:none">
-        <ellipse
-           style="fill:#ff0060;fill-opacity:1;stroke:none;stroke-width:5.60748;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3-6-1"
-           cx="-574.70056"
-           cy="1015.5669"
-           transform="matrix(-0.99906004,0.04334778,0.04336157,0.99905944,0,0)"
-           rx="49.694046"
-           ry="49.686146" />
-        <path
-           style="fill:#00c3c3;fill-opacity:1;stroke-width:9.30553"
-           d="m 1107.0737,1412.3875 c -24.2262,-3.4937 -45.8396,-19.7331 -56.6577,-42.5704 -5.1112,-10.7899 -6.9576,-19.1806 -6.9811,-31.7258 -0.022,-11.5186 1.5984,-19.8014 5.8073,-29.6923 6.946,-16.3226 21.4876,-31.1614 38.0258,-38.8025 13.4704,-6.2237 31.022,-8.2668 45.3906,-5.2838 26.5716,5.5166 47.3514,23.4318 56.3171,48.5535 3.5268,9.8822 4.5835,17.3783 4.0818,28.9552 -1.9075,44.0089 -41.9964,76.9095 -85.9838,70.5661 z"
-           id="path5"
-           transform="matrix(0.65741102,0,0,0.6573061,-116.98417,110.21589)" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:6.11993px;line-height:3.6;white-space:pre;inline-size:42.2034;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.12801;stroke-dasharray:none;stroke-opacity:1"
-         x="102.33715"
-         y="152.78503"
-         id="text9-0-00"
-         transform="matrix(0.88478849,0,0,0.73608303,187.21825,242.73875)"><tspan
-           x="102.33715"
-           y="152.78503"
-           id="tspan34">7.Bangladesh</tspan></text>
-    </g>
+    <rect
+       style="fill:#000066;fill-opacity:1;stroke-width:3.12801"
+       id="rect2"
+       width="34.491741"
+       height="0.82123196"
+       x="151.92792"
+       y="30.385582" />
   </g>
 </svg>
