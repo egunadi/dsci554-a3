@@ -1,5 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/WofS52QW)
-# README
+# DSCI 554 Assignment 3
+
+- [ASSIGNMENT.md](ASSIGNMENT.md) contains the Rubric
+
+## Landing page instructions
+
+"index.html" is the landing page. It can be served on a browser via hot-reload:
+
+```bash
+npm install    #install js libraries
+npm run serve  #starts server on port 2000
+```
+Alternately, this page can be viewed in GitHub at <https://egunadi.github.io/dsci554-a3/>.
+
+## Running the project
 
 - Link to download original data on "Population, surface area and density"
   - https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20and%20Density.csv
@@ -10,6 +24,9 @@
     - ex. Macau and Hong Kong (despite being one of the most populated regions in the world)
   - Despite only selecting the top 10 entries, there is a vast range of values (24475.8 max to 640.1 min)
     - To minimize this difference, values are encoded as bubble areas and we obtain diameter by taking the square root of the values 
+
+## Design choices 
+
 - The "svg" folder contains SVG files created using Inkscape
   - [popdensity22_top10.inkscape.svg](svg/popdensity22_top10.inkscape.svg) presents bubbles as circles using the calculated diameters. For viewers to easily sort the bubbles:
     - Bubbles are numbered in descending order based on Population Density
